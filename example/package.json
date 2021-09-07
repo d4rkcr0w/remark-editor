@@ -16,7 +16,7 @@
     "react-scripts": "^3.0.1",
     "remark": "^10.0.1",
     "remark-editor": "link:..",
-    "remark-html": "^9.0.1",
+    "remark-html": "^13.0.2",
     "styled-components": "^4.3.2"
   },
   "scripts": {
